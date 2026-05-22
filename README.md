@@ -1,6 +1,6 @@
-# SEO Skills
+# Marketing Skills
 
-SEO research, site-first keyword discovery, DataForSEO validation, SERP analysis, and LLM-assisted SEO strategy skills powered by AIsa.
+Marketing workflow skills for SEO research, site-first keyword discovery, DataForSEO validation, SERP analysis, and LLM-assisted growth strategy powered by AIsa.
 
 This repository is part of the [AISA Skills](https://github.com/AISA-skills) collection. Each top-level directory is a self-contained agent skill with a `SKILL.md` file and optional supporting scripts, references, or assets.
 
@@ -25,8 +25,8 @@ Get an API key at [aisa.one](https://aisa.one). Keep your key out of commits, sc
 Clone this repository:
 
 ```bash
-git clone https://github.com/AISA-skills/seo.git
-cd seo
+git clone https://github.com/AISA-skills/marketing-skills.git
+cd marketing-skills
 ```
 
 Install one or more skills into your local agent runtime. For Codex:
@@ -51,7 +51,7 @@ Each skill contains its own workflow, safety rules, required inputs, and API not
 ## Repository Layout
 
 ```text
-seo/
+marketing-skills/
 |-- README.md
 |-- LICENSE
 |-- .gitignore
